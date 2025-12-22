@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    
+}
+
+
+#main{
+    height: 100vh;
+    width: 100%;
+    background-color:brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cursor{
+    height: 20px;
+    width: 20px;
+    background-color: wheat;
+    border-radius: 50%;
+    position: fixed;
+    
+}
+
+#image{
+    height:30vw;
+    width: 60vw;
+    background-color: brown;
+    background-image: url(https://plus.unsplash.com/premium_photo-1681488458480-d6234d5632d6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMXx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-size: cover;
+}

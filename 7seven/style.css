@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+   
+}
+
+html,body{
+    height: 100vh;
+    width: 100%;
+}
+
+body{
+    background-color: black;
+    flex-direction: column;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 100px;
+    overflow: hidden;
+    color:aliceblue;
+}
+
+h1 span{
+    display: inline-block;
+}
+
+h2{
+    font-size: larger;
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+h2 span{
+    display: inline-block;
+}

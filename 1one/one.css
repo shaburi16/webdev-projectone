@@ -1,0 +1,57 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: gilroy;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    margin: 10px ;
+}
+
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    margin: 15px;
+}
+
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color:cadetblue;
+    margin: 15px;
+}
+
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: burlywood;
+    margin: 15px;
+}
+
+/* TIME LINE BOX*/
+#box4{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+
+#box5{
+    height: 100px;
+    width: 100px;
+    background-color: burlywood;
+}
+
+#box6{
+    height:100px;
+    width: 100px;
+    background-color: rgb(190, 98, 98);
+}
+
+
